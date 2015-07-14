@@ -1,0 +1,21 @@
+{
+  "name": "basscss-color-lighten",
+  "version": "0.0.0",
+  "description": "Basscss module to lighten colors, backgrounds, and borders",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holic/basscss-color-lighten.git"
+  },
+  "keywords": [
+    "CSS",
+    "OOCSS",
+    "Basscss",
+    "Rework"
+  ],
+  "author": "Kevin Ingersoll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holic/basscss-color-lighten/issues"
+  },
+  "homepage": "https://github.com/holic/basscss-color-lighten"
+}

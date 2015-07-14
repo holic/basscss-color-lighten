@@ -1,0 +1,23 @@
+/* Basscss Color Lighten */
+
+.lighten-1 { color: var(--lighten-1) }
+.lighten-2 { color: var(--lighten-2) }
+.lighten-3 { color: var(--lighten-3) }
+.lighten-4 { color: var(--lighten-4) }
+
+.bg-lighten-1 { background-color: var(--lighten-1) }
+.bg-lighten-2 { background-color: var(--lighten-2) }
+.bg-lighten-3 { background-color: var(--lighten-3) }
+.bg-lighten-4 { background-color: var(--lighten-4) }
+
+.border-lighten-1 { border-color: var(--lighten-1) }
+.border-lighten-2 { border-color: var(--lighten-2) }
+.border-lighten-3 { border-color: var(--lighten-3) }
+.border-lighten-4 { border-color: var(--lighten-4) }
+
+:root {
+  --lighten-1: rgba(255,255,255,.0625);
+  --lighten-2: rgba(255,255,255,.125);
+  --lighten-3: rgba(255,255,255,.25);
+  --lighten-4: rgba(255,255,255,.5);
+}
